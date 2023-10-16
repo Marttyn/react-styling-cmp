@@ -1,2 +1,2 @@
 # react-styling-cmp
-Created with CodeSandbox
+React module.css styling demo
